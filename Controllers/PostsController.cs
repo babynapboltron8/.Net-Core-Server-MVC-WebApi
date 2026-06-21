@@ -135,7 +135,7 @@ namespace ServerApi.Controllers
             }
 
             // Return HTTP 200 OK with the updated data.
-            return Ok(updatedPost);
+            return Ok(post);
         }
     }
 }
