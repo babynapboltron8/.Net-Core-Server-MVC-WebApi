@@ -39,19 +39,11 @@ namespace ServerApi.Controllers
 
         // GET api/posts/1
         // {id} comes from the URL.
-        [HttpGet("{id}")]
+        [HttpGet]
         public async Task<ActionResult<Post>> GetPosts(int id)
         {
             // Ask the service for the post.
             var post = await _postService.GetPost(id);
-
-            // Return HTTP 404 if no post found.
-            if (post == null)
-            {
-                return NotFound();
-            }
-
-            // Return HTTP 200 and the post data.
             return Ok(post);
         }
 
