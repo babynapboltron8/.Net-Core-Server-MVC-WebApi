@@ -5,8 +5,8 @@
 
 ## Creating a Web API Project
 
-- Create project: `dotnet new webapi -n MyFirstApi -controllers`
-- Navigate to project: `cd MyFirstApi`
+- Create project: `dotnet new webapi -n *folder name* -controllers`
+- Navigate to project: `cd *folder name*`
 - Open in VS Code: `code .`
 
 ## Building and running the project
@@ -33,3 +33,8 @@
 - Install the tool: `dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design --version 8.*` and `dotnet tool install -g dotnet-aspnet-codegenerator --version 8.*`
 - Restore and Verify it was added: `dotnet restore` and `dotnet list package`
 - Command to generate a controller: `dotnet-aspnet-codegenerator controller -name PostsController -api -outDir Controllers`
+
+## .NET Core CLI - EF Core packages
+
+- Install the dotnet-ef tool: `dotnet tool install --globall dotnet-ef`
+- Install EF Core packages: `dotnet ad package Microsoft.EntityFrameworkCore.SqlServer` and `dotnet add package Microsoft.EntityFrameworkCore.Design`
