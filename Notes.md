@@ -37,4 +37,4 @@
 ## .NET Core CLI - EF Core packages
 
 - Install the dotnet-ef tool: `dotnet tool install --globall dotnet-ef`
-- Install EF Core packages: `dotnet ad package Microsoft.EntityFrameworkCore.SqlServer` and `dotnet add package Microsoft.EntityFrameworkCore.Design`
+- Install EF Core packages: `dotnet add package Microsoft.EntityFrameworkCore.SqlServer` and `dotnet add package Microsoft.EntityFrameworkCore.Design`

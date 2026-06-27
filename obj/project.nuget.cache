@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uyzJpSycujQ=",
+  "dgSpecHash": "NxNhL5dSs1Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nap\\Desktop\\ServerApi\\ServerApi.csproj",
+  "projectFilePath": "C:\\Users\\Nap\\Desktop\\Asp.Net Core\\ServerApiMvc\\ServerApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nap\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Nap\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

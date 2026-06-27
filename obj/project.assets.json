@@ -6201,11 +6201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nap\\Desktop\\ServerApi\\ServerApi.csproj",
+      "projectUniqueName": "C:\\Users\\Nap\\Desktop\\Asp.Net Core\\ServerApiMvc\\ServerApi.csproj",
       "projectName": "ServerApi",
-      "projectPath": "C:\\Users\\Nap\\Desktop\\ServerApi\\ServerApi.csproj",
+      "projectPath": "C:\\Users\\Nap\\Desktop\\Asp.Net Core\\ServerApiMvc\\ServerApi.csproj",
       "packagesPath": "C:\\Users\\Nap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nap\\Desktop\\ServerApi\\obj\\",
+      "outputPath": "C:\\Users\\Nap\\Desktop\\Asp.Net Core\\ServerApiMvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nap\\AppData\\Roaming\\NuGet\\NuGet.Config"
